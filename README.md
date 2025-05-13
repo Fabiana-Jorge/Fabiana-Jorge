@@ -13,6 +13,5 @@ Iniciando o aprendizado em JavaScript e React.
 <br>
 <b>Para me enviar um e-mail, por favor, clique no ícone abaixo:</b>
 <br>
-<br>
-<a href="mailto:fabianac.digital@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" class="media-object img-responsive img-thumbnail"></a>
-
+<br
+<a href="mailto:fabianac.digital@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="link-gmail"></a>
